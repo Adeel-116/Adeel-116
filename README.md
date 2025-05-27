@@ -35,10 +35,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adeel-116" alt="Adeel-116 streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Adeel-116&theme=react-dark" alt="Adeel-116 contribution graph" />
-</p>
-
 ---
 
 ## 📫 Connect with Me
