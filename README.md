@@ -2,7 +2,7 @@
   
 # 👋 Hey there! I'm Muhammad Adeel
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=CS+Student+%7C+Full+Stack+Developer;Freelance+Bidder+%40+Allied+Tech+Global;Passionate+about+Web+Development;Building+Scalable+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Full+Stack+Developer;Freelance+Bidder+%40+Allied+Tech+Global;Expert+in+React+%26+React+Native;MERN+Stack+Developer+%7C+Freelancer;Passionate+about+Web+Development;Building+Scalable+Applications" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Adeel-116&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
