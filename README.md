@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Hi, I’m Muhammad Adeel, a passionate Full Stack Developer and Computer Science student from Pakistan 🇵🇰. I specialize in building scalable and user-friendly web and mobile applications. My technical toolkit includes HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, Node.js, React.js, Next.js, and React Native for creating beautiful frontends and powerful mobile apps. On the backend, I work with Express.js, Node.js, and databases like MySQL and MongoDB, crafting secure APIs using RESTful services and GraphQL. I love problem-solving, continuously learning, and staying at the forefront of tech innovation.
+Hi, I’m Muhammad Adeel, a passionate Full Stack Developer with extensive experience in Mobile Application Development. I specialize in building scalable and user-friendly web and mobile applications. My technical toolkit includes HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, Node.js, React.js, Next.js, and React Native for creating beautiful frontends and powerful mobile apps. On the backend, I work with Express.js, Node.js, and databases like MySQL and MongoDB, crafting secure APIs using RESTful services and GraphQL. I love problem-solving, continuously learning, and staying at the forefront of tech innovation.
 
 
 - 🎓 **Computer Science Student** with a passion for technology
