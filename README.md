@@ -2,7 +2,7 @@
   
 # 👋 Hey there! I'm Muhammad Adeel
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Full+Stack+Developer;Freelance+Bidder+%40+Allied+Tech+Global;Expert+in+React+%26+React+Native;MERN+Stack+Developer+%7C+Freelancer;Passionate+about+Web+Development;Building+Scalable+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Full+Stack+Developer;Expert+in+React+%26+React+Native;MERN+Stack+Developer+%7C+Freelancer;Passionate+about+Web+Development;Building+Scalable+Applications" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Adeel-116&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -18,19 +18,11 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```typescript
-const muhammadAdeel = {
-    role: "Full Stack Developer & CS Student",
-    company: "Allied Tech Global",
-    location: "Pakistan 🇵🇰",
-    currentFocus: "Building scalable web applications",
-    learning: ["DevOps", "Cloud Architecture", "System Design"],
-    hobbies: ["Coding", "Problem Solving", "Tech Innovation"],
-    funFact: "I debug with console.log and I'm proud of it! 🐛"
-};
+Hi, I’m Muhammad Adeel, a passionate Full Stack Developer and Computer Science student from Pakistan 🇵🇰. I specialize in building scalable and user-friendly web and mobile applications. My technical toolkit includes HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, Node.js, React.js, Next.js, and React Native for creating beautiful frontends and powerful mobile apps. On the backend, I work with Express.js, Node.js, and databases like MySQL and MongoDB, crafting secure APIs using RESTful services and GraphQL. I love problem-solving, continuously learning, and staying at the forefront of tech innovation.
 ```
 
 - 🎓 **Computer Science Student** with a passion for technology
-- 💼 **Freelance Bidder** at **Allied Tech Global** - connecting clients with solutions
+- 💼 **Freelance** connecting clients with solutions
 - 🌟 **Full Stack Developer** specializing in modern web technologies
 - 🚀 Always exploring cutting-edge frameworks and development practices
 - 🤝 Open to collaborating on innovative projects and startups
