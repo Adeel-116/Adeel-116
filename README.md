@@ -65,16 +65,6 @@ Hi, I’m Muhammad Adeel, a passionate Full Stack Developer with extensive exper
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=Adeel-116&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-
-</div>
-
----
-
 ## 📊 Contribution Graph
 
 <div align="center">
